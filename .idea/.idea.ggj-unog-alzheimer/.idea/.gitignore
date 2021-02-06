@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.ggj-unog-alzheimer.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\ozgur\Desktop\GGJ21\ggj-unog-alzheimer\.idea\.idea.ggj-unog-alzheimer\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
